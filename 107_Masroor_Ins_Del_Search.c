@@ -113,5 +113,5 @@ int linearSearch(int arr[], int size, int element)
 		if (arr[i] == element)
 			return i;
 	}
-	return -1;
+	return -1; //
 }
